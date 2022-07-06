@@ -1,9 +1,9 @@
 {
   "vendor": "itgloberspartnercl",
-  "name": "grid-challenge",
+  "name": "custom-grid",
   "version": "0.0.1",
-  "title":  "grid-challenge",
-  "description": "CHANGE_ME",
+  "title": "grid-challenge",
+  "description": "Grilla que muestra promociones de distintas maneras",
   "builders": {
     "react": "3.x",
     "messages": "1.x",

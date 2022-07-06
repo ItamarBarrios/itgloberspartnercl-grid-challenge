@@ -1,5 +1,5 @@
 {
-  "name":  "grid-challenge",
+  "name": "grid-challenge",
   "version": "0.0.1",
   "scripts": {
     "test": "vtex-test-tools test"
